@@ -15,8 +15,7 @@
 - 📫 How to reach me **khanyisilemesha@gmail.com**
 
 - ⚡ Fun fact **I love coding and the headache it comes with 😅**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanyicode&label=Profile%20views&color=0e75b6&style=flat" 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanyicode&label=Profile%20views&color=0e75b6&style=flat" alt="khanyicode" /> </p>
 
 
 
