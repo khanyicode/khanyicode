@@ -11,11 +11,8 @@
     <!-- First image -->
     <p><img src="https://github-readme-stats.vercel.app/api?username=khanyicode&show_icons=true&locale=en" alt="khanyicode" /></p>
     
-    <!-- Second image aligned to the right -->
-    <p style="margin-left: auto;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanyicode&show_icons=true&locale=en&layout=compact" alt="khanyicode" /></p>
-  </div>
+<p style="margin-right: auto;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanyicode&show_icons=true&locale=en&layout=compact" alt="khanyicode" /></p>
 
-</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
