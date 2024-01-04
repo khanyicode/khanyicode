@@ -11,12 +11,11 @@
 <p align="left">
 </p>
 
-<style>
   .stats-container {
     display: flex;
     justify-content: space-between;
   }
-</style>
+
 
 <div class="stats-container">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanyicode&show_icons=true&locale=en&layout=compact" alt="khanyicode" /></p>
