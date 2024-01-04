@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Khanyi 👩🏽‍💻.</h1>
 <h3 align="left">A passionate Full stack developer from South Africa</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=khanyicode&label=Profile%20views&color=0e75b6&style=flat" alt="khanyicode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanyicode&label=Profile%20views&color=0e75b6&style=flat" alt="khanyicode" /> </p>
 <p align="right">
 </p>
 <div class="stats-container" style="background-color: purple;">
@@ -15,6 +15,8 @@
 - 📫 How to reach me **khanyisilemesha@gmail.com**
 
 - ⚡ Fun fact **I love coding and the headache it comes with 😅**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanyicode&label=Profile%20views&color=0e75b6&style=flat" 
 
 
 
