@@ -7,7 +7,7 @@
   <!-- Second element with stats container -->
   <div class="stats-container" style="background-color: purple;">
     <!-- First image -->
-    <p><img src="https://github-readme-stats.vercel.app/api?username=khanyicode&show_icons=true&locale=en" alt="khanyicode" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=khanyicode&show_icons=true&locale=en&layout=compact&theme=transparent" alt="khanyicode" /></p>
     
 <p style="margin-right: auto;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanyicode&show_icons=true&locale=en&layout=compact&theme=transparent" alt="khanyicode" /></p>
 <h3 align="left">Languages and Tools:</h3>
