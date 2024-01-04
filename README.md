@@ -11,12 +11,6 @@
 <p align="left">
 </p>
 
-  .stats-container {
-    display: flex;
-    justify-content: space-between;
-  }
-
-
 <div class="stats-container">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanyicode&show_icons=true&locale=en&layout=compact" alt="khanyicode" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api?username=khanyicode&show_icons=true&locale=en" alt="khanyicode" /></p>
