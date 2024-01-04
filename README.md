@@ -8,9 +8,7 @@
 - ⚡ Fun fact **I love coding and the headache it comes with 😅**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  alt="khanyicode" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=khanyicode&show_icons=true&locale=en" alt="khanyicode" /></p>
+<p align="center">
 </p>
 
 <div class="stats-container" style="background-color: purple;">
