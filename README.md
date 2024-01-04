@@ -11,9 +11,11 @@
 <p align="left">
 </p>
 
-<div class="stats-container">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanyicode&show_icons=true&locale=en&layout=compact" alt="khanyicode" /></p> <p><img src="https://github-readme-stats.vercel.app/api?username=khanyicode&show_icons=true&locale=en" alt="khanyicode" /></p>
+<div class="stats-container" style="background-color: purple;">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanyicode&show_icons=true&locale=en&layout=compact" alt="khanyicode" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=khanyicode&show_icons=true&locale=en" alt="khanyicode" /></p>
 </div>
+
 
 
 
