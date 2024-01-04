@@ -2,8 +2,6 @@
 <h3 align="left">A passionate Full stack developer from South Africa</h3>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-
-  <!-- First element (empty paragraph) aligned to the right -->
   <p style="margin-left: auto;"></p>
 
   <!-- Second element with stats container -->
