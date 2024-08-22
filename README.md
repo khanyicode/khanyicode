@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Khanyi 👩🏽‍💻.</h1>
-<h3 align="left">A passionate Full stack developer from South Africa</h3>
+<h3 align="left">A passionate Back-end developer and Tester from South Africa</h3>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <p style="margin-left: auto;"></p>
